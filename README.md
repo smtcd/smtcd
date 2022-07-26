@@ -8,4 +8,4 @@
 smtcd/smtcd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-how to bring the "edition" and "ISBN" number in the string "Observation of the earth and its environmnet : survey of missions and sensors .-4th ed. .-3-540-42388-5" into separate columns in OpenRefine
+how to bring the "edition" and "ISBN" number in the string "Observation of the earth and its environmnet : survey of missions and sensors .-4th ed. .-3-540-42388-5" into separate columns in OpenRefine. The above string is in a row that I want to bring into two separate columns of "Edition" and "ISBN"
